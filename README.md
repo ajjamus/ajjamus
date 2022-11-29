@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Jamous
 - 👀 I’m interested in Infrastructre and DevOps Engineering
-- 🌱 I’m currently learning Ansible, Docker, K8s, Jenkins, AWS cloud,   terraform, ArgoCD.
+- 🌱 I’m currently learning Ansible, Docker, K8s, Jenkins, AWS cloud,terraform, ArgoCD.
 - 💞️ I’m looking to collaborate on AWS and DevOps
 - 📫 How to reach me @mail : ahmad.jamous@gmail.com
 
