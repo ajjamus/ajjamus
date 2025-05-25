@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Ahmad Jamous
-- 👀 I’m interested in Infrastructre and DevOps Engineering
-- 🌱 I’m currently learning Ansible, Docker, K8s, Jenkins, AWS cloud,terraform, ArgoCD.
-- 💞️ I’m looking to collaborate on AWS and DevOps
-- 📫 How to reach me @mail : ahmad.jamous@gmail.com
+# Ahmad-bio
+
+👋 Hi, I’m Ahmad Jamous  
+👀 I’m interested in Infrastructure and DevOps Engineering  
+🌱 Currently learning Ansible, Docker, Kubernetes, Jenkins, AWS Cloud, Terraform, and ArgoCD  
+💞️ Looking to collaborate on AWS and DevOps projects  
+📫 Reach me at: ahmad.jamous@gmail.com  
+
+---
+
+Experienced Senior System Administrator with extensive expertise in Linux and Microsoft Windows Servers. Proficient in application and system backups, Exchange, and Active Directory. Demonstrated success in hardware/software rollouts, staff training, and project management. Strong multitasking abilities and experienced in DevOps methodologies and tools.
 
 <!---
 ajjamus/ajjamus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
